@@ -232,17 +232,7 @@
       "price":"7.99",
       "over":"Built by two Doctoral-level Mental Health Professionals, this two-week stress reduction challenge is intended to help participants improve their stress response. Each day, you will engage in an activity intended to help with stress management that will take about 5-10 active minutes. Each task will come with a description of what specifically to do and/or a link to follow along with a video or audio file, so please be sure to read through the descriptions thoroughly before completing the activity.  ",
       "difficult":" You will have two to three unique options per day to give you some autonomy and choice in the process. For example, throughout the program, there are two days in which you are instructed to engage in relaxation techniques, and within that topic, there are two relaxation technique options. Ideally, you would try each of these once throughout the program. However, if you know one of them doesn’t work for you or that one works particularly well and needs to be repeated, there is flexibility for you to be able to do what works best for you!"
-    },
-    {
-      "id":1,
-      "img":"",
-      "week":"2 WEEK CHALLENGE",
-      "time":"44 MIN/DAY",
-      "desc":"",
-      "equipment":"",
-      "price":"15.1",
-      "over":" ",
-      "difficult":" "
-    }   
+    }
+    
   ]
 }
