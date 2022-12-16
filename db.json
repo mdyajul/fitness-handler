@@ -1,9 +1,248 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "Products": [
+    {
+      "id":1,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-9958-fb-3-day-3-workouts-per-week-for-2-weeks-91fc.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"15.1",
+      "over":"FB 3-Day is a 2-week workout challenge designed for people who only want three (required) workout days per week. Whether you're too busy for more than three workouts per week, or you like to supplement other types of fitness (walking, swimming, etc.) with at-home workout videos, this challenge is intended to help support a well-rounded fitness routine that suits your desired schedule and pace. Expect a mix weight lifting and HIIT (high intensity interval training) that will test your endurance, cardiovascular health, and strength.",
+      "difficult":"This workout challenge includes a blend of strength training and HIIT — sometimes in the same workout — with a Level 3 to Level 4 difficulty. Optional active recovery routines fall between the more intense workouts and include yoga and mobility work to soothe and stretch sore muscles. The average time commitment for the required workouts is about 45 minutes. Your main workouts are intense, but since there are only three per week, you can focus on maximizing your effort before enjoying some active recovery-style movement the following day. "
+    },
+    {
+      "id":2,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-9687-fb-just-your-body-2-week-no-equipment-challenge-b0df.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB Just Your Body: 2 Week No Equipment",
+      "price":"15.1",
+      "over":"This challenge is ideal for nearly everyone! However, you should have some experience with foundational bodyweight movements — like squats and push-ups — and/or a solid base of strength before starting. Many exercises within the cardio and HIIT routines involve explosive movements that may be challenging for some who struggle with high impact activity. If you suffer from chronic back pain, this may not be the challenge for you.",
+      "difficult":"The Challenge progresses from Level 3 difficulty in the first week to Level 4 and 5 in the second week, with workouts that range from 25–45 minutes in length (averaging out to 34 minutes a day). This way, you can be sure your body can maximize each workout while still effectively recovering between them. Feel free to use our reschedule feature to rework your calendar in any way you need to accomplish this challenge."
+    },
+    {
+      "id":3,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-9443-fb-pilates-immersion-2-week-pilates-challenge-for-foundational-strength-and-stability-935e.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"37 MIN/DAY",
+      "desc":"FB Pilates Immersion: 2-Week Pilates Challenge for Foundational Strength and Stability",
+      "price":"7.99",
+      "over":"FB Pilates Immersion is a two-week challenge designed to build foundational strength and stability for your entire body. This challenge targets your lower body, core, and upper body with classic and contemporary Pilates exercises. Most of the workouts are low to no impact, isolating your deep stabilizers to build strength and stability from the inside out. However, there are three days in this challenge where you will complete a short Pilates workout before a strength or cardio routine. ",
+      "difficult":"You will hear the term rib-to-hip-connection frequently in the Pilates routines. That means that when you engage your abdominals, your lower ribs come closer to your hips or pelvis without rounding or arching your spine. When the ribs and hips are connected, you are in a neutral spine position. Imagine suspenders on your lower ribs that are attached to the front of your pelvis. If you tighten those suspenders, your rib cage will come down. BUT do not allow your spine to round forward. Keep your spine straight and your chest up tall. If you feel like you are working in opposition here, it is because you are. So, take your time; practice makes perfect."
+    },
+    {
+      "id":4,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-8774-fb-reboot-8-week-program-to-jumpstart-your-fitness-routine-83b3.jpg",
+      "week":"8 WEEK Program",
+      "time":"35 MIN/DAY",
+      "desc":"FB Reboot: 8-Week Program to Jumpstart Your Fitness Routine",
+      "price":"19.99",
+      "over":"This program is ideal for anyone new to exercising consistently, as well as those restarting exercise after an injury or workout break. FB Reboot will not only improve your fitness, but boost your confidence and help you gain lasting consistency with your workouts.",
+      "difficult":"Over the course of 8 weeks, you’ll progressively build from level 1 & 2 workouts to level 3, 4 and 5 workouts. You’ll find that the workout frequency (or number of workouts per week) also increases as the weeks go on, to keep your body stimulated and fitness level progressing. This strategy allows you to approach fitness in a smart way that will help you establish consistency and confidence over time — without risking injury."
+    },
+    {
+      "id":5,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-8622-fb-strong-runner-2-week-strength-focused-challenge-for-improving-running-performance-9544.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"7.99",
+      "over":"FB Strong Runner is a two-week challenge designed to help runners improve their running pace and form with supplemental strength-focused workouts. Although the lower body muscles are the primary movers during a run, total body strength work is instrumental to injury prevention and enhancing performance. This challenge includes lower body, upper body, core, and low impact/restorative movement workouts, all with exercises that complement the biomechanics of running:",
+      "difficult":"Whichever way you choose to approach this challenge, make sure to listen to your mind and body! Amend the schedule in any way you see fit to match your training goals and personal preferences for enjoying movement: extra recovery, switch out workouts, rearrange the order of workouts, skip workouts, etc. Most importantly, have fun and enjoy the journey!"
+    },
+    {
+      "id":6,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-8081-fb-kettlebell-blend-2-week-kettlebell-challenge-for-functional-strength-a591.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"7.99",
+      "over":"This challenge is ideal for those who have some experience with kettlebells and/or a good base of strength before starting. Many of the movements in kettlebell training involve explosive movement patterns and can be considered pretty challenging. If you suffer from chronic back pain, this may not be the challenge for you.",
+      "difficult":"With many of our kettlebell workouts being a level 4 or 5 out of 5, we’ve designed this challenge with 3 “required” kettlebell workouts per week and 2 “optional” workouts per week that will be of a recovery nature. This way, you can be sure your body can maximize each workout, while effectively recovering between them. You’ll also find a couple days where you get to choose between 2 workouts based on how you’re feeling that day. Feel free to rework your calendar in any way you need to accomplish this challenge. "
+    },
+    {
+      "id":7,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-7776-4-week-fb-benchmark-program-total-body-strength-and-conditioning-bd26.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"11.99",
+      "over":"Welcome to FB Benchmark! During this four-week program, you will utilize a mix of strength training, cardio, and core routines to improve your performance across eight popular exercises included in many Fitness Blender workouts. Each workout in this program contains one or more of these benchmark exercises (or elements thereof) and is sequenced in such a way to promote muscle adaptation and progressive strength gains for improvements in form, movement execution, and range of motion. You will complete a Benchmark Workout with these eight exercises at both the beginning and end of the program to measure your progress, but you determine the extent of your tracking and measuring along the way.",
+      "difficult":"Approach this program with an “any progress is progress” mentality! The difference between completing five push-ups on your knees and five on your toes might not seem that big of a deal at first glance, but consider all the work that must occur to transition between these two alternatives. Lastly, don’t forget to make note of your mental progress. Improvements in confidence and enjoyment of movement are huge wins! "
+    },
+    {
+      "id":8,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-7590-2-week-fb-reboot-challenge-a-balanced-approachable-return-to-fitness-bb7b.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"7.99",
+      "over":"Welcome to FB Reboot! This program is designed for those who are coming back from an illness, injury, or workout break to help you get back into exercise in an approachable way. It's common to come back from an extended workout break and want to hit the ground running at your previous intensity to make up for lost time. However, that could increase the risk of injury and/or burnout.",
+      "difficult":"This workout lineup offers a balanced approach including strength training, low-impact cardio, core training, and stretching/flexibility so you can be sure your body is getting what it needs after some time off. Over the course of 2 weeks, we'll gradually increase the intensity and time commitment from shorter (~25 min) level 2 workouts to slightly longer (~40 min) level 3 workouts, allowing you to gradually build back into a consistent routine without shocking your system. There are 5 workouts per week with an optional bonus day, plus extra credit workouts included throughout."
+    },
+    {
+      "id":9,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-6526-4-week-fbfit-and-fb30-all-exclusive-workout-videos-35-or-45-minutes-a-day-90ff.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"11.99",
+      "over":"FB Fit30 is great for people who prefer a mix of short and long workouts in their programming. It allows you to choose what works best for your energy needs & schedule. You'll be doing a unique, exclusive workout video every single day; warm up, workout and cool down included - everything you need for a smart workout.",
+      "difficult":"The main training types are strength training and HIIT, but this program also includes functional training, plyometrics, Pilates, both isolation and total body work, fundamentals, balance and coordination, stretching, yoga, and recovery cardio. "
+    },
+    {
+      "id":10,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-6547-2-week-fb-mobility-85b1.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"7.99",
+      "over":"This 2 Week Mobility Challenge is made of FB Plus videos and led by Kayla and Amanda, two Doctors of Physical Therapy. With a focus on mobility, alignment, posture, corrective strength, and stretching moves, this total-body challenge will leave you feeling great from head to toe.",
+      "difficult":"Each day you'll have a different focus, and you may be surprised to find that many of these workouts can be challenging. Modifications are shown throughout the videos, and on many days, you'll have the choice between two different workouts, varying in exact length and intensity."
+    },
+    {
+      "id":11,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-6170-4-week-fb-strong-round-2-a786.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"11.99",
+      "over":"Welcome to FB Strong Round 2! If you love strength training and the way it makes you feel, you're going to love FB Strong. These workouts are great for building lean muscle, reducing body fat, increasing strength, endurance, and coordination. This carefully-crafted program helps you get the most out of your training, without stressing or overworking your body. You'll be doing a different workout video each day. This program is available for purchase or free with a Plus membership. ",
+      "difficult":"This workout program is 90% strength training, with complimentary short bursts of muscle building HIIT and Pilates weaved throughout. We use a wide range of dynamic strength training styles, including but not limited to supersets, circuits, both isolation and total body work, intervals, ballistic training, and functional strength. While this program is intense from day one, modifications are shown all throughout and we highly encourage you to listen to your body and make modifications wherever necessary. "
+    },
+    {
+      "id":12,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-6136-2-week-fb-full-fusion-challenge-ad84.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+      "price":"7.99",
+      "over":"The 2-Week FB Full Fusion Challenge is an action-packed, total body focused endeavor. With training styles ranging from HIIT to combination strength training, you will experience varying levels of intensity and training modalities with multiple ways to track your progress throughout the challenge. Workout durations range from 20 to 50 minutes, averaging 34 minutes a day. Bring a set of medium and heavy weights, a mat, and a positive attitude! Your main goal is to push yourself outside of your comfort zone (safely of course) and enjoy the process along the way. ",
+      "difficult":"FB Full Fusion Challenge features 11 exclusive FB Plus workout videos. Your trainers will be Tasha, Kayla, and Amanda, bringing different styles and perspectives to your training each day."
+    }
+    
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "Meal":[
+    {
+      "id":1,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-7739-strength-building-meal-plan-9d87.jpg",
+      "week":"1 WEEK",
+      "time":"10 minutes",
+      "dietary": "Omnivore",
+      "type": "Breakfast, Lunch, Dinner, Snack",
+      "desc":"Strength Building Meal Plan 1 Week of High Protein Omnivore Recipes",
+      "price":"3.99",
+      "over":"Welcome to Fitness Blender's new Strength Building Meal Plan! This 1-week plan features whole food recipes that are nutrient dense and high in protein to support your body through strength training. It was developed by Registered Dietitians and Recipe Developers to provide recipes that are easy to use and tailored to busy people.",
+      "goal":"No matter what your goals are, this plan has been built so that it can easily be customized to meet your needs to lose weight, gain weight, or maintain your weight — and at the same time, build a foundation of healthy eating practices and ideas.",
+      "learning":"We want this meal plan to help you learn how to meet your nutritional needs with real food — not with meal replacement shakes, powders, or supplements. This meal plan has been built in conjunction with registered dietitians and is based largely off of the kinds of foods that we regularly include in our own personal diets. We believe in eating real, whole foods as often as possible, in order to create a diet that is nutrient dense, filling, and fully capable of supporting an active lifestyle."
+       
+    },
+    {
+      "id":2,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-7738-meals-under-30-minutes-meal-plan-for-busy-people-a32a.jpg",
+      "week": " 1 Week",
+      "time":"20 minutes",
+      "dietary":"Omnivore",
+      "type":"Breakfast, Lunch, Dinner, Snack",
+      "desc":"Meals Under 30 Minutes: Meal Plan for Busy People 1-Week Omnivore Meal Plan",
+      "price":"3.99",
+      "over":"Welcome to Fitness Blender's Meals Under 30 Minutes: Meal Plan for Busy People! This is a 1-week program was developed by Registered Dietitians and Recipe Developers to provide a meal plan that is not only easy to use, nutrient-dense, and tailored to busy people, but is also as simple to follow as possible. ",
+      "goal":"No matter what your goals are, this plan has been built so that it can easily be customized to meet your needs to lose weight, gain weight, or maintain your weight — and at the same time, build a foundation of healthy meals, eating practices, and ideas. ",
+      "learning":"This particular meal plan has been built in conjunction with registered dietitians, based largely off of the kinds of foods that we regularly include in our own personal diets. We believe in eating real, whole foods as often as possible, in order to create a diet that is nutrient-dense, filling, and fully capable of supporting an active lifestyle."
+    },
+    {
+      "id":3,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-7128-around-the-world-1-week-omnivore-meal-plan-b211.jpg",
+      "week": " 1 Week",
+      "time":"20 minutes",
+      "dietary":"Omnivore",
+      "type":"Breakfast, Lunch, Dinner, Snack",
+      "desc":"Around the World 1-Week Omnivore Meal Plan",
+      "price":"3.99",
+      "over":"Welcome to Fitness Blender's new 1 Week Meal Challenge! This program is a one week program developed by Registered Dietitians and Recipe Developers, and reviewed by Doctoral-level Mental Health Professionals, to provide a meal plan that is not only easy to use, nutrient dense, tailored to busy people but also as simple to follow as possible.",
+      "goal":"No matter what your goals are, this plan has been built so that it can easily be customized to meet your needs to lose weight, gain weight, or maintain your weight. And at the same time, build a foundation of healthy meals, eating practices and ideas. ",
+      "learning":"Our goal is for you to learn how to eat well for the rest of your life - this is not a diet but a lifestyle change. This is a tool, a general guideline and an idea generating tool for you to use. We want to..."
+    },
+    {
+      "id":4,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-o_21_fb-meal-plan-eat-real-food-and-feel-great.jpg",
+      "week": "4 Weeks",
+      "time":"20 minutes",
+      "dietary":"Ominivore",
+      "type":"Breakfast, Lunch, Dinner, Snack",
+      "desc":"FB Meal Plan - Eat Real Food & Feel Great",
+      "price":"24.99",
+      "over":"However, when it comes to planning and preparing healthy meals and snacks, it can sometimes seem overwhelming, so having a bit of structure and guidance may be just what you need. With this in mind, we worked with registered dieticians to create the Fitness Blender Meal Plan, which highlights great-tasting, healthy, whole-foods meals and snacks - giving you everything you need to make some real headway in learning how to fuel your body better. The plan details 3 meals and 3 snacks - every day - for four weeks.",
+      "goal":"Most meals are quick and easy to put together, with simple, straight forward recipes that are easily modifiable to the users taste. Meal plan also includes our nutrition guide (found on Day 0) with over 70 pages of tips on how to make the switch to healthy eating, the psychology of food, learning to fuel yourself, understanding your hunger, getting your family to eat healthier, workout tips, and more.",
+      "learning":"This meal plan is heavily plant based, with lots of fruits and vegetables and minimally processed natural foods, but it is not vegan or vegetarian. With simple modifications (a topic covered in the meal plan guide), it can easily be altered to be appropriate for a wide variety of eating preferences. "
+    }
   ],
-  "profile": { "name": "typicode" }
+  "Pilot":[
+    {
+      "id":1,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-8933-fb-pregnancy-series-second-trimester-phase-9abb.jpg",
+      "week":"1 WEEK CHALLENGE",
+      "time":"38 MIN/DAY",
+      "desc":"FB Pregnancy Series: Second Trimester Phase 1-Week Workout Program for the Second Trimester of Pregnancy",
+      "equipment":" Exercise Step, Bench, Dumbbell, Exercise Band, Mat, Physio-Ball",
+      "price":"3.99",
+      "over":"Welcome to the second trimester phase of Fitness Blender’s Pregnancy Series! This Series is meant to serve as a helpful guide for exercising safely and confidently in pregnancy, while serving your body with exactly what it needs at each phase of the journey. For this second trimester phase, we have compiled workouts, daily guides, and expert articles to provide you with a balanced routine for pregnancy. ",
+      "difficult":"While pregnancy is a different experience for everyone, one thing is for sure: there are many changes throughout the journey. For this reason, we’ve kept the difficulty level between 1-3 to allow for any symptoms, low energy levels, aches and pains, or anything you might be going through. You’ll find a well-balanced approach with strength training, cardio, stretching, and core work. Having this structure will help you lay the foundation for a healthy pregnancy and support your body as it grows and changes to make space for your baby. "
+    },
+    {
+      "id":2,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-8934-fb-pregnancy-series-third-trimester-phase-8391.jpg",
+      "week":"1 WEEK CHALLENGE",
+      "time":"28 MIN/DAY",
+      "desc":"FB Pregnancy Series: Third Trimester Phase 1-Week Workout Program for the Third Trimester of Pregnancy",
+      "equipment":" Exercise Step, Bench, Dumbbell, Exercise Band, Mat, No Equipment",
+      "price":"3.99",
+      "over":"Welcome to the third trimester phase of Fitness Blender’s Pregnancy Series! This Series is meant to serve as a helpful guide for exercising safely and confidently in pregnancy, while serving your body with exactly what it needs at each phase of the journey. For this third trimester phase, we have compiled workouts, daily guides, and expert articles to provide you with a balanced routine for pregnancy. ",
+      "difficult":" While pregnancy is a different experience for everyone, one thing is for sure: there are many changes throughout the journey. For this reason, we’ve kept the difficulty level between 1-3 to allow for any symptoms, low energy levels, aches and pains, or anything you might be going through. You’ll find a well-balanced approach with strength training, cardio, stretching, and core work. Having this structure will help you lay the foundation for a healthy pregnancy and support your body as it grows and changes to make space for your baby."
+    },
+    {
+      "id":3,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-8931-fb-pregnancy-series-preconception-phase-b2f7.jpg",
+      "week":"1 WEEK CHALLENGE",
+      "time":"38 MIN/DAY",
+      "desc":"FB Pregnancy Series: Preconception Phase 1-Week Workout Program for Preconception",
+      "equipment":"Dumbbell, Exercise Band, Mat, No Equipment",
+      "price":"3.99",
+      "over":"Welcome to the Preconception Phase of Fitness Blender’s Pregnancy Series! This one-of-a-kind series serves as a helpful guide for how to safely and confidently exercise before becoming pregnant. We have compiled workouts, daily guides, and expert articles to provide you with a balanced routine for this important part of your pregnancy journey. ",
+      "difficult":"According to the Australian Government Department of Health and the Victorian Government Department of Health, regular physical activity can improve fertility and reduce symptoms of anxiety/depression and self esteem. International guidelines recommend at least 30 minutes of moderate intensity physical activity — such as brisk walking, gardening, or dancing — on most days of the week for those who are attempting to conceive. For this reason, we’ve kept the difficulty level around 3 (out of 5) to reflect the best research, and included strength training, cardio, core/Pilates, stretches, and total body work to give you the best chance for success. There are 5 days programmed into this phase, but we highly encourage you to listen to your body and complete it in your own time. "
+    },
+    {
+      "id":4,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-8932-fb-pregnancy-series-first-trimester-phase-a6c7.jpg",
+      "week":"1 WEEK CHALLENGE",
+      "time":"29 MIN/DAY",
+      "desc":"FB Pregnancy Series: First Trimester Phase 1-Week Workout Program for the First Trimester of Pregnancy",
+      "equipment":"Dumbbell, Mat, No Equipment, Yoga Block, Other",
+      "price":"3.99",
+      "over":"Welcome to the first trimester phase of Fitness Blender’s Pregnancy Series! This Series is meant to serve as a helpful guide for exercising safely and confidently in pregnancy, while serving your body with exactly what it needs at each phase of the journey. For this first trimester phase, we have compiled workouts, daily guides, and expert articles to provide you with a balanced routine for pregnancy. ",
+      "difficult":"While pregnancy is a different experience for everyone, one thing is for sure: there are many changes throughout the journey. For this reason, we’ve kept the difficulty level between 1-3 to allow for any symptoms, low energy levels, aches and pains, or anything you might be going through. You’ll find a well-balanced approach with strength training, cardio, stretching, and core work. Having this structure will help you lay the foundation for a healthy pregnancy and support your body as it grows and changes to make space for your baby. "
+    },
+    {
+      "id":5,
+      "img":"https://d18zdz9g6n5za7.cloudfront.net/plan/640/640-7428-2-week-stress-reduction-challenge-b957.jpg",
+      "week":"2 WEEK CHALLENGE",
+      "time":"7 MIN/DAY",
+      "desc":"2-Week Stress Reduction Challenge Under 10 min/day",
+      "equipment":"N/A",
+      "price":"7.99",
+      "over":"Built by two Doctoral-level Mental Health Professionals, this two-week stress reduction challenge is intended to help participants improve their stress response. Each day, you will engage in an activity intended to help with stress management that will take about 5-10 active minutes. Each task will come with a description of what specifically to do and/or a link to follow along with a video or audio file, so please be sure to read through the descriptions thoroughly before completing the activity.  ",
+      "difficult":" You will have two to three unique options per day to give you some autonomy and choice in the process. For example, throughout the program, there are two days in which you are instructed to engage in relaxation techniques, and within that topic, there are two relaxation technique options. Ideally, you would try each of these once throughout the program. However, if you know one of them doesn’t work for you or that one works particularly well and needs to be repeated, there is flexibility for you to be able to do what works best for you!"
+    },
+    {
+      "id":1,
+      "img":"",
+      "week":"2 WEEK CHALLENGE",
+      "time":"44 MIN/DAY",
+      "desc":"",
+      "equipment":"",
+      "price":"15.1",
+      "over":" ",
+      "difficult":" "
+    }   
+  ]
 }
